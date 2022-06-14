@@ -2,6 +2,8 @@
 ## Análisis de reportaje de datos 
 ### "Cifra de personas que realizan su trabajo fuera del hogar ha caído un 20%" de ***[Telemetro.com](http:/telemetro.com "Telemetro")***
 
+![IMAGEN RELACIONADA](https://pbs.twimg.com/media/E-xQ9jYXMAUlMhL?format=jpg&name=large)
+
 El reportaje se basa en una encuesta realizada por la multinacional de investigación de mercados y consultoría, Ipsos, que destaca que, en Panamá, antes de la pandemia 8 de cada 10 personas realizaba su trabajo fuera del hogar, lo que representaba un 78% de los trabajadores del país, sin embargo, esta cifra ha caído cerca de un 20%, con lo que actualmente se ubica en 58%.
 
 #### Puntos destacables
